@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlockIt</string>
+    <string name="accessibility_service_label">BlockIt Focus Interceptor</string>
+    <string name="accessibility_service_description">Monitors foreground applications during active focus sessions to block distracting apps and enforce your focus commitment.</string>
+</resources>

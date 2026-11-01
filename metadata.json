@@ -1,0 +1,6 @@
+{
+  "name": "BlockIt",
+  "description": "Minimalist session lock & focus launcher that blocks distracting apps during focus hours to supercharge productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
